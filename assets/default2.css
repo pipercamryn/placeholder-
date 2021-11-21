@@ -1,0 +1,89 @@
+
+.page-body {
+  background-color: black;
+}
+
+img {
+  width: 300px;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 50%;
+  border: 2px white solid;
+  padding: 10px;
+  background-color: white;
+  font-family: AndaleMono;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: cell;
+  color: white
+}
+
+.button:hover {
+  background-color: black;
+  -webkit-transition:all 0.3s ease-in-out;
+  -moz-transition:all 0.3s ease-in-out;
+}
+
+.center-allign {
+  text-align: center;
+}
+
+.image-1 {
+  display: inline-block;
+
+}
+
+.image-2 {
+  display: inline-block;
+}
+
+.image-3 {
+  display: inline-block;
+}
+
+.image-4 {
+  display: inline-block;
+}
+
+.image-5 {
+  display: inline-block;
+}
+
+.image-6 {
+  display: inline-block;
+}
+
+.image-7 {
+  display: inline-block;
+}
+
+.image-8 {
+  display: inline-block;
+}
+
+.image-9 {
+  display: inline-block;
+}
+.image-10 {
+  display: inline-block;
+}
+.image-11 {
+  display: inline-block;
+}
+.image-12 {
+  display: inline-block;
+}
+
+.image-13 {
+  display: inline-block;
+}
+
+.image-14 {
+  display: inline-block;
+}
+
+.image-15 {
+  display: inline-block;
+}

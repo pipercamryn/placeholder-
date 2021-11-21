@@ -1,0 +1,27 @@
+
+.page-body {
+  width: auto;
+  font-family: monospace;
+}
+
+a img {
+  width: 150px;
+}
+
+.ph-title {
+  padding-left: 14.5%;
+  padding-top: 20.5%;
+}
+
+img {
+  width: 1000px;
+}
+
+.alfred-head {
+  padding-left: 88%;
+  padding-top: 10%;
+}
+
+a:hover {
+
+}
